@@ -1,6 +1,0 @@
-jupyter_contrib_nbextensions
-nltk
-numpy
-pandas
-ggplot
-requests
